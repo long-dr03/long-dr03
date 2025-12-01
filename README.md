@@ -1,9 +1,5 @@
 <!-- Banner Anime -->
-<p align="center">
-  <img src="https://i.imgur.com/kvZnnYx.png" alt="banner" width="100%" style="border-radius:14px;" />
-</p>
-
-<h1 align="center">🌸 Xin chào, mình là <span style="color:#ff7eb3;">Nguyễn Ngọc Long</span> 👋</h1>
+<h1 align="center">Xin chào, mình là <span style="color:#ff7eb3;">Nguyễn Ngọc Long</span> 👋</h1>
 <h3 align="center">Kỹ sư Kỹ thuật Phần mềm • Fullstack Developer • Mobile Developer</h3>
 
 ---
